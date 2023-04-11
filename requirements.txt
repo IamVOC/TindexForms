@@ -1,0 +1,4 @@
+flask
+flask_apispec
+flask_restful
+pymongo
